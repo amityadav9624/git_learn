@@ -1,2 +1,6 @@
 amit welcome
-in git 
+in git
+
+change
+git push -u origin master
+
